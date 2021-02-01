@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "title": "Preparing for new Job",
+      "body": "Requirements: Java and linux structure",
+      "author": "yoshi",
+      "id": 1
+    },
+    {
+      "title": "Given time:",
+      "body": "Around 1 week.",
+      "author": "Yoshi",
+      "id": 2
+    },
+    {
+      "title": "Courses to learn:",
+      "body": "Searching all the best instructors in order to get better knowledge.",
+      "author": "Yoshi",
+      "id": 3
+    }
+  ]
+}
